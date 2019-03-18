@@ -1,7 +1,7 @@
 
 #### Setup and Run :runner:
 
+Go to Project Root directory:
 ```bash
-cd sample-dropdown
 npm i && npm start
 ```
